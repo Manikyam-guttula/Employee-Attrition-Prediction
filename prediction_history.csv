@@ -1,0 +1,5 @@
+Timestamp,EmployeeID,Predicted Target (Attrition),Attrition Risk Score,Age,Department,Monthly Income (₹),Years at Company,Job Satisfaction,Work Life Balance,Performance Rating,OverTime,Distance From Home (km)
+2026-09-25 21:26:43,EMP_007,No,30.0%,27,Engineering,100000,4,4,3,3,No,18
+2026-09-25 21:27:21,EMP_002,No,20.0%,53,HR,100000,15,5,4,4,No,36
+2026-09-25 21:36:14,EMP_001,No,40.0%,35,Marketing,50000,5,3,3,3,No,10
+2026-09-25 21:36:35,EMP_004,No,30.0%,28,Finance,50000,5,4,4,3,No,22

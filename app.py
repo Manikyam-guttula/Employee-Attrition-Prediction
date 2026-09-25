@@ -6,7 +6,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import streamlit as st
 import pandas as pd
-from src.predict import predict_attrition
+from predict import predict_attrition
 
 st.set_page_config(page_title="Employee Attrition Predictor", layout="wide")
 

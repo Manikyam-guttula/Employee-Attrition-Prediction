@@ -2,7 +2,7 @@ import os
 import joblib
 import pandas as pd
 
-model_path = "best_model.pkl"
+MODEL_PATH= "best_model.pkl"
 
 def predict_attrition(input_dict):
     """Loads model and returns predicted attrition class and probability score."""

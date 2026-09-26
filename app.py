@@ -1,6 +1,6 @@
 import sys
 import os
-from datatime import datetime
+from datetime import datetime
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 
